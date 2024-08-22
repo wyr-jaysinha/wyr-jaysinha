@@ -13,7 +13,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,,opencv,linux,ai,github,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,linux,ai,github,git,bash)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
