@@ -7,13 +7,13 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at K.K. UNIVERSITY.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the Nothing right now.
+- 📝 ....
+- 🌐 ....
 - ✍️ Content Writer for PR discriptions ONLY!!!
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,,opencv,linux,ai,github,git,bash)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
